@@ -15,7 +15,7 @@
     <string name="parenthessClose">)</string>
 
     <!--тестовое выражение (можно сделать пустую строку)-->
-    <string name="test"></string>
+    <string name="test">2+6*(4-5/(4+1))</string>
 
 
     <!--тексты ошибок-->
