@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Калькулятор (23.11.2016)</string>
+
+
+    <string name="inputExpression">Введите выражение</string>
+    <string name="calculate">Сосчитать</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="dot">.</string>
+    <string name="percent">%</string>
+    <string name="parenthessOpen">(</string>
+    <string name="parenthessClose">)</string>
+
+    <!--тестовое выражение (можно сделать пустую строку)-->
+    <string name="test"></string>
+
+
+    <!--тексты ошибок-->
+    <string name="incorectCountOfParenthess">Ошибка, связанная со скобками (не все скобки образуют пары)</string>
+    <string name="incorectSigns">Ошибка, связанная со знаками (неправильно расставлены знаки)</string>
+    <string name="unknowError">Ошибка</string>
+    <string name="emptyString">Введите выражение</string>
+    <string name="complete">Готово!</string>
+
+
+    <string name="answerInExpression">Решение:</string>
+</resources>
