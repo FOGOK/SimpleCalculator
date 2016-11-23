@@ -3,7 +3,6 @@ package com.fogok.simplecalculator;
 import android.content.Context;
 import android.support.design.widget.Snackbar;
 import android.view.View;
-
 import java.util.ArrayList;
 
 /**

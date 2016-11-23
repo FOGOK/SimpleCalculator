@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/inputExpression"
             android:hint="@string/inputExpression"
-            android:inputType="number|numberDecimal"
+            android:inputType="numberDecimal"
             android:text="@string/test"/>
 
         </android.support.design.widget.TextInputLayout>
